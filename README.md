@@ -41,8 +41,7 @@ git clone https://github.com/your-username/random-name-generator.git
 
 Add a screenshot of your project here.
 ## 📸 Screenshot
-
-![Random Name Generator](images/screenshot.png)
+![Screenshot](screenshot.png)
 
 ```
 images/screenshot.png
