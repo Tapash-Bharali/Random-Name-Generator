@@ -56,7 +56,9 @@ Open `index.html` in your preferred web browser.
 ---
 ## 📸 Screenshot
 
-![Random Name Generator](Screenshot%20%28127%29.png)
+## 📸 Screenshot
+
+![Random Name Generator](screenshot.png)
 
 
 
