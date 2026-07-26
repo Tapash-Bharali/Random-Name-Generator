@@ -55,10 +55,7 @@ Open `index.html` in your preferred web browser.
 
 ---
 
-## 📸 Screenshot
-![Random Name Generator](Screenshot%202026-07-26%20112247.png)
 
----
 
 ## ⚙️ How It Works
 
